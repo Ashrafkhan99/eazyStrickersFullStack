@@ -1,3 +1,10 @@
+# Quick Walk - Through
+
+<img width="1512" height="921" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/9f4e6259-e42c-4679-b955-a6eabc4392b4" />
+<img width="1527" height="911" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/f568f714-c356-48d3-a4c7-f70a6dbd9212" />
+<img width="1504" height="895" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/3018ef85-2369-4897-bf48-d5c50d350764" />
+
+
 # EazyStore – Entity & Relationship Documentation
 
 > **Domain**: E‑commerce platform that sells *fizzy stickers* with Stripe‑based payments and role‑based Spring‑Security access.
